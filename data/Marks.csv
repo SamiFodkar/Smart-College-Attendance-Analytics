@@ -1,0 +1,601 @@
+StudentID,Subject,Marks
+1001,SQL,63
+1001,Java,84
+1002,Data Science,75
+1002,SQL,67
+1003,Data Science,58
+1003,Electronics,33
+1004,Java,79
+1004,SQL,37
+1005,Data Science,88
+1005,Python,56
+1006,Python,41
+1006,Java,80
+1007,Electronics,59
+1007,SQL,38
+1008,Java,94
+1008,Data Science,71
+1009,SQL,89
+1009,Electronics,60
+1010,Python,33
+1010,Data Science,51
+1011,SQL,67
+1011,Python,62
+1012,Java,37
+1012,SQL,79
+1013,Java,41
+1013,Data Science,78
+1014,Data Science,95
+1014,Electronics,31
+1015,Data Science,51
+1015,Electronics,87
+1016,Java,60
+1016,SQL,60
+1017,Data Science,51
+1017,Electronics,52
+1018,Python,32
+1018,SQL,49
+1019,SQL,47
+1019,Java,70
+1020,SQL,87
+1020,Python,34
+1021,Data Science,39
+1021,SQL,91
+1022,Python,70
+1022,Java,94
+1023,SQL,41
+1023,Data Science,32
+1024,Java,88
+1024,Data Science,81
+1025,Data Science,90
+1025,Electronics,97
+1026,SQL,91
+1026,Electronics,89
+1027,SQL,94
+1027,Java,93
+1028,Java,93
+1028,Python,34
+1029,Electronics,91
+1029,Python,53
+1030,SQL,96
+1030,Data Science,79
+1031,Data Science,38
+1031,Python,43
+1032,Python,68
+1032,Java,57
+1033,Java,46
+1033,SQL,84
+1034,Python,96
+1034,Java,70
+1035,Electronics,57
+1035,Java,42
+1036,Electronics,44
+1036,SQL,85
+1037,Python,39
+1037,Electronics,74
+1038,Java,58
+1038,Electronics,52
+1039,Java,72
+1039,Data Science,39
+1040,Java,80
+1040,Electronics,62
+1041,Python,50
+1041,Java,30
+1042,Electronics,76
+1042,SQL,83
+1043,Java,68
+1043,Python,52
+1044,Python,67
+1044,Data Science,58
+1045,Electronics,65
+1045,Python,58
+1046,Data Science,74
+1046,Java,45
+1047,Java,91
+1047,Data Science,72
+1048,Data Science,99
+1048,Java,37
+1049,Java,80
+1049,Data Science,33
+1050,Python,53
+1050,Electronics,84
+1051,Data Science,87
+1051,Electronics,41
+1052,Java,34
+1052,Electronics,97
+1053,Data Science,84
+1053,Electronics,68
+1054,Data Science,84
+1054,Java,38
+1055,Data Science,50
+1055,Python,86
+1056,Data Science,35
+1056,SQL,33
+1057,Electronics,30
+1057,Data Science,84
+1058,Java,68
+1058,Python,32
+1059,Data Science,79
+1059,Electronics,91
+1060,Java,57
+1060,Python,87
+1061,Electronics,98
+1061,Python,64
+1062,Python,43
+1062,Electronics,92
+1063,Python,69
+1063,SQL,58
+1064,Data Science,44
+1064,Java,98
+1065,Python,71
+1065,SQL,59
+1066,Python,63
+1066,SQL,56
+1067,SQL,98
+1067,Python,60
+1068,Data Science,35
+1068,Electronics,61
+1069,Java,61
+1069,Data Science,68
+1070,Electronics,69
+1070,Python,62
+1071,Electronics,68
+1071,SQL,75
+1072,Python,61
+1072,Data Science,65
+1073,Python,99
+1073,Java,30
+1074,Java,74
+1074,SQL,87
+1075,Data Science,85
+1075,Java,92
+1076,Electronics,65
+1076,Python,86
+1077,Data Science,31
+1077,Python,97
+1078,Data Science,39
+1078,Java,56
+1079,Data Science,60
+1079,SQL,50
+1080,Electronics,75
+1080,Python,74
+1081,Java,65
+1081,Python,81
+1082,SQL,43
+1082,Electronics,78
+1083,SQL,86
+1083,Data Science,46
+1084,Python,88
+1084,Java,32
+1085,Electronics,95
+1085,Java,63
+1086,Data Science,50
+1086,Electronics,54
+1087,Electronics,91
+1087,Java,55
+1088,Java,53
+1088,SQL,55
+1089,SQL,58
+1089,Electronics,60
+1090,SQL,56
+1090,Python,73
+1091,Data Science,44
+1091,SQL,42
+1092,Python,52
+1092,Java,63
+1093,Electronics,43
+1093,SQL,63
+1094,SQL,84
+1094,Electronics,95
+1095,Electronics,97
+1095,Java,55
+1096,Data Science,81
+1096,Electronics,47
+1097,SQL,56
+1097,Data Science,60
+1098,Electronics,40
+1098,Data Science,63
+1099,SQL,47
+1099,Electronics,50
+1100,Electronics,58
+1100,SQL,54
+1101,Data Science,89
+1101,Python,78
+1102,Electronics,30
+1102,Data Science,69
+1103,Java,79
+1103,Data Science,77
+1104,Java,33
+1104,SQL,94
+1105,SQL,47
+1105,Data Science,83
+1106,Electronics,72
+1106,Java,80
+1107,SQL,47
+1107,Electronics,56
+1108,SQL,44
+1108,Electronics,71
+1109,Python,39
+1109,Electronics,34
+1110,Java,52
+1110,SQL,91
+1111,Java,86
+1111,SQL,53
+1112,Electronics,46
+1112,Java,43
+1113,SQL,73
+1113,Python,61
+1114,Python,97
+1114,Electronics,46
+1115,Electronics,75
+1115,Java,33
+1116,SQL,64
+1116,Python,99
+1117,Python,73
+1117,SQL,77
+1118,Python,69
+1118,SQL,60
+1119,Java,81
+1119,SQL,67
+1120,SQL,42
+1120,Python,66
+1121,Python,51
+1121,Electronics,68
+1122,Python,47
+1122,Java,68
+1123,Electronics,94
+1123,Python,75
+1124,Java,37
+1124,Electronics,61
+1125,Data Science,77
+1125,Electronics,92
+1126,SQL,35
+1126,Python,92
+1127,Python,42
+1127,Data Science,53
+1128,Python,90
+1128,Electronics,30
+1129,Electronics,42
+1129,Java,62
+1130,SQL,50
+1130,Python,59
+1131,Electronics,87
+1131,Python,73
+1132,SQL,44
+1132,Electronics,81
+1133,Java,36
+1133,Electronics,75
+1134,SQL,62
+1134,Data Science,33
+1135,Electronics,93
+1135,Java,54
+1136,Java,42
+1136,SQL,32
+1137,Python,36
+1137,SQL,55
+1138,Python,42
+1138,SQL,73
+1139,Electronics,48
+1139,Python,81
+1140,Python,50
+1140,Java,77
+1141,Data Science,77
+1141,Python,92
+1142,Python,90
+1142,Electronics,82
+1143,Electronics,42
+1143,Java,71
+1144,Electronics,84
+1144,Data Science,47
+1145,Electronics,53
+1145,SQL,36
+1146,Python,98
+1146,Data Science,71
+1147,Python,55
+1147,Data Science,61
+1148,SQL,81
+1148,Electronics,49
+1149,SQL,43
+1149,Electronics,73
+1150,Python,72
+1150,Java,45
+1151,Electronics,97
+1151,Data Science,34
+1152,Java,60
+1152,Electronics,95
+1153,SQL,56
+1153,Electronics,62
+1154,Electronics,73
+1154,SQL,78
+1155,Data Science,95
+1155,Java,92
+1156,SQL,46
+1156,Electronics,95
+1157,SQL,49
+1157,Java,56
+1158,Data Science,32
+1158,SQL,98
+1159,SQL,40
+1159,Electronics,44
+1160,Data Science,36
+1160,Java,35
+1161,Java,57
+1161,Python,68
+1162,SQL,96
+1162,Electronics,69
+1163,Data Science,98
+1163,SQL,72
+1164,Java,55
+1164,Electronics,47
+1165,SQL,52
+1165,Data Science,74
+1166,Python,69
+1166,Java,92
+1167,Electronics,35
+1167,Python,32
+1168,Electronics,96
+1168,Python,60
+1169,Java,44
+1169,Data Science,66
+1170,Python,41
+1170,Data Science,96
+1171,Python,68
+1171,Data Science,72
+1172,Python,61
+1172,Data Science,72
+1173,SQL,92
+1173,Electronics,69
+1174,Python,39
+1174,Electronics,81
+1175,Electronics,89
+1175,Data Science,55
+1176,Python,98
+1176,Electronics,64
+1177,Electronics,80
+1177,Data Science,47
+1178,Python,36
+1178,SQL,35
+1179,Data Science,68
+1179,Electronics,80
+1180,Electronics,91
+1180,SQL,69
+1181,Electronics,79
+1181,Data Science,53
+1182,Data Science,62
+1182,Electronics,50
+1183,Java,74
+1183,Data Science,38
+1184,Electronics,64
+1184,Data Science,82
+1185,SQL,46
+1185,Electronics,65
+1186,Data Science,89
+1186,Electronics,47
+1187,Java,89
+1187,Electronics,63
+1188,Electronics,71
+1188,Java,30
+1189,Python,68
+1189,Electronics,59
+1190,Java,39
+1190,Data Science,43
+1191,Electronics,35
+1191,Python,50
+1192,Electronics,91
+1192,SQL,82
+1193,Java,95
+1193,Data Science,37
+1194,Data Science,91
+1194,Electronics,57
+1195,Java,96
+1195,Electronics,38
+1196,Python,87
+1196,Java,50
+1197,SQL,93
+1197,Data Science,78
+1198,Java,50
+1198,Data Science,36
+1199,Electronics,95
+1199,SQL,76
+1200,Python,62
+1200,Java,36
+1201,Electronics,65
+1201,Python,42
+1202,Java,79
+1202,SQL,67
+1203,Data Science,73
+1203,Electronics,84
+1204,Electronics,82
+1204,SQL,87
+1205,SQL,30
+1205,Data Science,58
+1206,SQL,34
+1206,Data Science,86
+1207,Java,33
+1207,Data Science,93
+1208,Data Science,74
+1208,SQL,37
+1209,SQL,57
+1209,Java,38
+1210,Python,60
+1210,Electronics,36
+1211,Electronics,85
+1211,Python,39
+1212,Python,76
+1212,Java,30
+1213,Java,99
+1213,Electronics,94
+1214,Data Science,37
+1214,SQL,89
+1215,SQL,91
+1215,Java,70
+1216,SQL,83
+1216,Java,40
+1217,Python,67
+1217,Java,90
+1218,Java,45
+1218,Electronics,43
+1219,SQL,85
+1219,Java,35
+1220,SQL,92
+1220,Electronics,86
+1221,SQL,50
+1221,Electronics,59
+1222,Electronics,83
+1222,Java,33
+1223,SQL,81
+1223,Java,94
+1224,Java,95
+1224,Electronics,78
+1225,Data Science,92
+1225,Java,35
+1226,SQL,80
+1226,Data Science,31
+1227,Python,68
+1227,Electronics,33
+1228,Java,96
+1228,Data Science,44
+1229,Data Science,48
+1229,Electronics,98
+1230,Electronics,76
+1230,Python,73
+1231,Data Science,97
+1231,Electronics,34
+1232,Python,36
+1232,Java,51
+1233,SQL,96
+1233,Python,52
+1234,Data Science,54
+1234,Java,37
+1235,Python,97
+1235,Java,93
+1236,Python,82
+1236,SQL,81
+1237,Data Science,30
+1237,Java,92
+1238,Electronics,53
+1238,Python,98
+1239,SQL,88
+1239,Electronics,62
+1240,SQL,41
+1240,Electronics,40
+1241,Data Science,71
+1241,Electronics,60
+1242,Python,61
+1242,Electronics,39
+1243,Electronics,49
+1243,Java,49
+1244,Electronics,92
+1244,SQL,50
+1245,SQL,97
+1245,Data Science,77
+1246,Electronics,64
+1246,Data Science,99
+1247,SQL,63
+1247,Data Science,44
+1248,Java,30
+1248,Electronics,94
+1249,Java,80
+1249,SQL,72
+1250,Data Science,70
+1250,Java,93
+1251,Python,98
+1251,SQL,43
+1252,Electronics,64
+1252,Java,94
+1253,Python,48
+1253,Electronics,71
+1254,SQL,98
+1254,Python,81
+1255,Python,65
+1255,SQL,92
+1256,Electronics,72
+1256,Java,63
+1257,Java,90
+1257,Data Science,86
+1258,SQL,53
+1258,Java,93
+1259,Electronics,66
+1259,Data Science,40
+1260,Java,76
+1260,Electronics,76
+1261,Python,35
+1261,Java,95
+1262,Electronics,60
+1262,Python,45
+1263,Data Science,41
+1263,Java,85
+1264,Python,67
+1264,Java,51
+1265,Electronics,88
+1265,Java,49
+1266,Electronics,91
+1266,Java,32
+1267,SQL,85
+1267,Python,60
+1268,Python,55
+1268,Data Science,30
+1269,SQL,88
+1269,Python,90
+1270,Data Science,48
+1270,Python,33
+1271,SQL,83
+1271,Data Science,93
+1272,Python,31
+1272,Data Science,65
+1273,Python,59
+1273,SQL,84
+1274,Data Science,98
+1274,Python,31
+1275,Python,85
+1275,Electronics,84
+1276,Java,54
+1276,Electronics,82
+1277,SQL,91
+1277,Python,98
+1278,Python,72
+1278,Data Science,90
+1279,Python,53
+1279,Data Science,59
+1280,SQL,92
+1280,Data Science,40
+1281,Java,84
+1281,Python,84
+1282,Java,34
+1282,Electronics,47
+1283,Python,50
+1283,SQL,76
+1284,SQL,74
+1284,Java,59
+1285,SQL,74
+1285,Java,74
+1286,Data Science,61
+1286,Electronics,35
+1287,Electronics,98
+1287,Java,54
+1288,Python,89
+1288,SQL,50
+1289,Data Science,55
+1289,SQL,83
+1290,Electronics,40
+1290,Data Science,56
+1291,Electronics,82
+1291,Python,94
+1292,Python,59
+1292,Data Science,87
+1293,Data Science,43
+1293,SQL,86
+1294,Data Science,58
+1294,SQL,70
+1295,SQL,48
+1295,Electronics,55
+1296,Data Science,38
+1296,SQL,81
+1297,Data Science,43
+1297,SQL,32
+1298,Data Science,80
+1298,SQL,71
+1299,Python,86
+1299,Data Science,36
+1300,Electronics,32
+1300,SQL,33
